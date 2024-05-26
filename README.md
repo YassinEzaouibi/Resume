@@ -1,7 +1,5 @@
 # Full-Stack Developer
 
-#### Technical Skills: Java, Typescript, JavaScript, Spring, Angular, TailwindCSS
-
 ## Education
 - High School Diploma in Science of Life and the Earth | Abi Yacoub Al Badissi High School (_2020-2021_)
   - Completed rigorous coursework in computer science, mathematics, and biology, achieving top grades in all subjects
