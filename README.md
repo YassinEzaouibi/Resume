@@ -56,5 +56,5 @@
 - **French:** Skilled
 
 ## Certifications
-- Java Basics | HackerRank
+- Java | HackerRank
   - Earned certification for proficiency in Java programming fundamentals, including syntax, data types, control flow, and object-oriented programming concepts
